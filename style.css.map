@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,mBAAmB;EAChC,WAAW,EAAE,GAAG;CAAG;;AAEvB,AAAA,CAAC,CAAC;EACE,KAAK,EAAE,MAAM;CAEQ;;AAHzB,AAEI,CAFH,AAEI,MAAM,CAAC;EACJ,KAAK,EAAE,KAAK;CAAG;;AAEvB,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,MAAM;CAAG;;ACVpB,AAAA,CAAC,CAAC;EACE,KAAK,EAAE,GAAG;EACV,eAAe,EAAE,SAAS;CAAG",
+    "sources": [
+        "style.sass",
+        "_main.sass",
+        "_ferid.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
